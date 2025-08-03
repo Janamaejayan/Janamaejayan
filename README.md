@@ -57,7 +57,7 @@
   <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamaejayan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
     <br/>
-  <img width=390 align="center" src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&font=Karma" width="400" style="border-radius: 10px;/>
+  <img width=390 align="center" src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&font=Karma" width="400" style="border-radius: 10px;" />
     <br/>
 </div>
 
