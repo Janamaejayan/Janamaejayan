@@ -10,15 +10,16 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AI-based real-time child detection system**
+ 🔭 I’m currently working on **a WhatsApp-based SaaS platform at Techlift Digital**  
+ 
+ 🌱 I’m currently learning **Next.js, REST APIs, and scalable web app development**  
 
- 🌱 I’m currently learning **MediaPipe, TensorFlow Lite, Raspberry Pi optimization**
-
-💬 Ask me about **Python, C, ML, Embedded Systems... or anything [here](https://github.com/janamaejayan/janamaejayan/issues)**
-
-⚡ Fun fact **“ChatGPT isn’t conscious, but it sure types like it is 😄”**
+ 💬 Ask me about **Java, Python, C, Data Structures, Web Development, or Embedded Systems**  
+ 
+ ⚡ **Success is not final, failure is not fatal: it is the courage to continue that counts.**  
 
 </div>
+
  
 <div align="center"> 
   <a href="mailto:janamaejayan996@gmail.com">
