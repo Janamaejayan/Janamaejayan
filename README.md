@@ -30,7 +30,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Janamaejayan" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/janamaejayan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhuvaneshcsessn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Janamaejayan" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Janamaejayan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Janamaejayan" height="30" width="40" />
@@ -57,7 +57,7 @@
   <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamaejayan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
     <br/>
-  <img width=390 align="center" src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&font=Karma" width="400" />
+  <img width=390 align="center" src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&font=Karma" width="400" style="border-radius: 10px;/>
     <br/>
 </div>
 
