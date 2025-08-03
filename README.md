@@ -56,7 +56,7 @@
   <br/><br/>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamaejayan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <br/><br/>
-  <img src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&ext=heatmap" alt="LeetCode Stats" width="390" style="border-radius: 15px;" />
+  <img src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&ext=heatmap" alt="LeetCode Stats" width="390" style="border-radius: 50px;" />
 </div>
 
 <br/><hr/><br/>
