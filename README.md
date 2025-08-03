@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/janamaejayan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-Janamaejayan" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/janamaejayan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Janamaejayan" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
