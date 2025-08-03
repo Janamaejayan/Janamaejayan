@@ -32,7 +32,7 @@
   <a href="https://leetcode.com/u/janamaejayan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Janamaejayan" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/bhuvaneshcsessn" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/janamaejayan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhuvaneshcsessn" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Janamaejayan" target="blank">
