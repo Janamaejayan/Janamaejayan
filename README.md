@@ -61,8 +61,8 @@
   <img 
     src="https://leetcard.jacoblin.cool/janamaejayan?theme=dark&ext=heatmap"
     alt="LeetCode Stats"
-    width="400"
-    style="border-radius: 15px;"
+    width="390"
+    style="border-radius: 15;"
   />
 </p>
 
