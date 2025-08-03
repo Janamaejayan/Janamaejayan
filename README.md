@@ -7,11 +7,10 @@
 </h1>
 
 <!-- Developer GIF below the name -->
-<img align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400" alt="Animated Developer GIF" style="border-radius: 12px; margin-top: 10px;" />
+<img align="center" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400" alt="Animated Developer GIF" style="border-radius: 12px; margin-top: 10px;" />
+<br/>
 
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
-
-
 
 <br/>
 
