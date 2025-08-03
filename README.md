@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Janamaejayan+V+S!;" />
 </h1>
 
-<!-- Developer GIF below the name -->
-<img align="center" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400" alt="Animated Developer GIF" style="border-radius: 12px; margin-top: 10px;" />
-<br/>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+       width="500" 
+       alt="Developer GIF" 
+       style="border-radius: 12px;" />
+</div>
+
 
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
