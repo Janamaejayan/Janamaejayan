@@ -21,14 +21,24 @@
 </div>
 
  
-<div align="center"> 
-  <a href="mailto:janamaejayan996@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/janamaejayan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-Janamaejayan" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/stoic.bhuvi?igsh=MWx0bzNsMmE5ZWRhcQ==" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janamaejayan" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/janamaejayan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Janamaejayan" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/bhuvaneshcsessn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhuvaneshcsessn" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Janamaejayan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Janamaejayan" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/janamaejayan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+</p>
 
 <hr/>
 
@@ -38,6 +48,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,vscode,github,java,linux,git" />
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" /><br>
 </div>
+
 
 <br/>
 <hr/>
